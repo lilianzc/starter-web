@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 Adding introduction tezt
 
 ## deployment
+Adding deployment text
+
+## how to contribute
