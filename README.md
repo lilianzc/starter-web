@@ -13,5 +13,6 @@ Adding introduction tezt
 Adding deployment text
 
 ## how to contribute
+just contribute
 
 ##copyright
