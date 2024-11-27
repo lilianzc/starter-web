@@ -18,3 +18,4 @@ Adding deployment text
 just contribute
 
 ##copyright
+All rights reserved
